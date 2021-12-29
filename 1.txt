@@ -1,7 +1,2 @@
 first commit
-1111111
-<<<<<<< HEAD
-rets
-=======
-222 second commit 2user
->>>>>>> 30dfc5bc834cde867ca687f80f7db9f53a41fa87
+critical bug fix
